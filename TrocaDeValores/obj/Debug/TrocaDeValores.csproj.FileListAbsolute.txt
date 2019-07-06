@@ -1,0 +1,10 @@
+C:\Users\Diego\source\repos\AppsWF\TrocaDeValores\bin\Debug\TrocaDeValores.exe.config
+C:\Users\Diego\source\repos\AppsWF\TrocaDeValores\bin\Debug\TrocaDeValores.exe
+C:\Users\Diego\source\repos\AppsWF\TrocaDeValores\bin\Debug\TrocaDeValores.pdb
+C:\Users\Diego\source\repos\AppsWF\TrocaDeValores\obj\Debug\TrocaDeValores.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\AppsWF\TrocaDeValores\obj\Debug\TrocaDeValores.Form1.resources
+C:\Users\Diego\source\repos\AppsWF\TrocaDeValores\obj\Debug\TrocaDeValores.Properties.Resources.resources
+C:\Users\Diego\source\repos\AppsWF\TrocaDeValores\obj\Debug\TrocaDeValores.csproj.GenerateResource.cache
+C:\Users\Diego\source\repos\AppsWF\TrocaDeValores\obj\Debug\TrocaDeValores.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\AppsWF\TrocaDeValores\obj\Debug\TrocaDeValores.exe
+C:\Users\Diego\source\repos\AppsWF\TrocaDeValores\obj\Debug\TrocaDeValores.pdb
