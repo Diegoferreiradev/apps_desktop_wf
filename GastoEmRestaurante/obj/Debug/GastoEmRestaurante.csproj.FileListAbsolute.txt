@@ -1,0 +1,10 @@
+C:\Users\Diego\source\repos\AppsWF\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.exe.config
+C:\Users\Diego\source\repos\AppsWF\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.exe
+C:\Users\Diego\source\repos\AppsWF\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.pdb
+C:\Users\Diego\source\repos\AppsWF\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.Properties.Resources.resources
+C:\Users\Diego\source\repos\AppsWF\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.csproj.GenerateResource.cache
+C:\Users\Diego\source\repos\AppsWF\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\AppsWF\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.exe
+C:\Users\Diego\source\repos\AppsWF\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.pdb
+C:\Users\Diego\source\repos\AppsWF\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.FormGastoEmRestaurante.resources
+C:\Users\Diego\source\repos\AppsWF\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.csprojAssemblyReference.cache
