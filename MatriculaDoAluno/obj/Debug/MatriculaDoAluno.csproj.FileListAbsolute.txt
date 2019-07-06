@@ -1,0 +1,10 @@
+C:\Users\Diego\source\repos\AppsWF\MatriculaDoAluno\bin\Debug\MatriculaDoAluno.exe.config
+C:\Users\Diego\source\repos\AppsWF\MatriculaDoAluno\bin\Debug\MatriculaDoAluno.exe
+C:\Users\Diego\source\repos\AppsWF\MatriculaDoAluno\bin\Debug\MatriculaDoAluno.pdb
+C:\Users\Diego\source\repos\AppsWF\MatriculaDoAluno\obj\Debug\MatriculaDoAluno.Properties.Resources.resources
+C:\Users\Diego\source\repos\AppsWF\MatriculaDoAluno\obj\Debug\MatriculaDoAluno.csproj.GenerateResource.cache
+C:\Users\Diego\source\repos\AppsWF\MatriculaDoAluno\obj\Debug\MatriculaDoAluno.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\AppsWF\MatriculaDoAluno\obj\Debug\MatriculaDoAluno.exe
+C:\Users\Diego\source\repos\AppsWF\MatriculaDoAluno\obj\Debug\MatriculaDoAluno.pdb
+C:\Users\Diego\source\repos\AppsWF\MatriculaDoAluno\obj\Debug\MatriculaDoAluno.MatriculaDeAluno.resources
+C:\Users\Diego\source\repos\AppsWF\MatriculaDoAluno\obj\Debug\MatriculaDoAluno.csprojAssemblyReference.cache
