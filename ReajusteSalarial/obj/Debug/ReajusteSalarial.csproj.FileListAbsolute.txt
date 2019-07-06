@@ -1,0 +1,10 @@
+C:\Users\Diego\source\repos\AppsWF\ReajusteSalarial\bin\Debug\ReajusteSalarial.exe.config
+C:\Users\Diego\source\repos\AppsWF\ReajusteSalarial\bin\Debug\ReajusteSalarial.exe
+C:\Users\Diego\source\repos\AppsWF\ReajusteSalarial\bin\Debug\ReajusteSalarial.pdb
+C:\Users\Diego\source\repos\AppsWF\ReajusteSalarial\obj\Debug\ReajusteSalarial.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\AppsWF\ReajusteSalarial\obj\Debug\ReajusteSalarial.Form1.resources
+C:\Users\Diego\source\repos\AppsWF\ReajusteSalarial\obj\Debug\ReajusteSalarial.Properties.Resources.resources
+C:\Users\Diego\source\repos\AppsWF\ReajusteSalarial\obj\Debug\ReajusteSalarial.csproj.GenerateResource.cache
+C:\Users\Diego\source\repos\AppsWF\ReajusteSalarial\obj\Debug\ReajusteSalarial.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\AppsWF\ReajusteSalarial\obj\Debug\ReajusteSalarial.exe
+C:\Users\Diego\source\repos\AppsWF\ReajusteSalarial\obj\Debug\ReajusteSalarial.pdb
