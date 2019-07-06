@@ -1,0 +1,10 @@
+C:\Users\Diego\source\repos\AppsWF\CalcularPeso\bin\Debug\CalcularPeso.exe.config
+C:\Users\Diego\source\repos\AppsWF\CalcularPeso\bin\Debug\CalcularPeso.exe
+C:\Users\Diego\source\repos\AppsWF\CalcularPeso\bin\Debug\CalcularPeso.pdb
+C:\Users\Diego\source\repos\AppsWF\CalcularPeso\obj\Debug\CalcularPeso.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\AppsWF\CalcularPeso\obj\Debug\CalcularPeso.FormCalcularPeso.resources
+C:\Users\Diego\source\repos\AppsWF\CalcularPeso\obj\Debug\CalcularPeso.Properties.Resources.resources
+C:\Users\Diego\source\repos\AppsWF\CalcularPeso\obj\Debug\CalcularPeso.csproj.GenerateResource.cache
+C:\Users\Diego\source\repos\AppsWF\CalcularPeso\obj\Debug\CalcularPeso.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\AppsWF\CalcularPeso\obj\Debug\CalcularPeso.exe
+C:\Users\Diego\source\repos\AppsWF\CalcularPeso\obj\Debug\CalcularPeso.pdb
