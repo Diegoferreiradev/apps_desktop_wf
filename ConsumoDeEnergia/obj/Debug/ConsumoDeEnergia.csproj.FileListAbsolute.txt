@@ -1,0 +1,10 @@
+C:\Users\Diego\source\repos\AppsWF\ConsumoDeEnergia\bin\Debug\ConsumoDeEnergia.exe.config
+C:\Users\Diego\source\repos\AppsWF\ConsumoDeEnergia\bin\Debug\ConsumoDeEnergia.exe
+C:\Users\Diego\source\repos\AppsWF\ConsumoDeEnergia\bin\Debug\ConsumoDeEnergia.pdb
+C:\Users\Diego\source\repos\AppsWF\ConsumoDeEnergia\obj\Debug\ConsumoDeEnergia.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\AppsWF\ConsumoDeEnergia\obj\Debug\ConsumoDeEnergia.Form1.resources
+C:\Users\Diego\source\repos\AppsWF\ConsumoDeEnergia\obj\Debug\ConsumoDeEnergia.Properties.Resources.resources
+C:\Users\Diego\source\repos\AppsWF\ConsumoDeEnergia\obj\Debug\ConsumoDeEnergia.csproj.GenerateResource.cache
+C:\Users\Diego\source\repos\AppsWF\ConsumoDeEnergia\obj\Debug\ConsumoDeEnergia.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\AppsWF\ConsumoDeEnergia\obj\Debug\ConsumoDeEnergia.exe
+C:\Users\Diego\source\repos\AppsWF\ConsumoDeEnergia\obj\Debug\ConsumoDeEnergia.pdb
