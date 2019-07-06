@@ -1,0 +1,10 @@
+C:\Users\Diego\source\repos\AppsWF\RestoDaDivisao\bin\Debug\RestoDaDivisao.exe.config
+C:\Users\Diego\source\repos\AppsWF\RestoDaDivisao\bin\Debug\RestoDaDivisao.exe
+C:\Users\Diego\source\repos\AppsWF\RestoDaDivisao\bin\Debug\RestoDaDivisao.pdb
+C:\Users\Diego\source\repos\AppsWF\RestoDaDivisao\obj\Debug\RestoDaDivisao.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\AppsWF\RestoDaDivisao\obj\Debug\RestoDaDivisao.Properties.Resources.resources
+C:\Users\Diego\source\repos\AppsWF\RestoDaDivisao\obj\Debug\RestoDaDivisao.csproj.GenerateResource.cache
+C:\Users\Diego\source\repos\AppsWF\RestoDaDivisao\obj\Debug\RestoDaDivisao.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\AppsWF\RestoDaDivisao\obj\Debug\RestoDaDivisao.exe
+C:\Users\Diego\source\repos\AppsWF\RestoDaDivisao\obj\Debug\RestoDaDivisao.pdb
+C:\Users\Diego\source\repos\AppsWF\RestoDaDivisao\obj\Debug\RestoDaDivisao.FormRestoDeDivisao.resources
